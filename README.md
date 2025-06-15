@@ -1,4 +1,4 @@
-## Hi there 👋
+## [My Blog](https://olavodotpy.github.io/)
 
 <!--
 **olavodotpy/olavodotpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
